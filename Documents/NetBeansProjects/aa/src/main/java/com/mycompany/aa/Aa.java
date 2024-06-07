@@ -8,6 +8,6 @@ package com.mycompany.aa;
 public class Aa {
 
     public static void main(String[] args) {
-        System.out.println("ola klnhjmio");
+        System.out.println("olaaaaaaaaaa");
     }
 }
